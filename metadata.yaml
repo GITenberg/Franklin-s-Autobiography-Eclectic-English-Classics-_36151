@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '38105'
     url: http://www.gutenberg.org/2009/agents/38105
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36151#Franklin-s-Autobiography-Eclectic-English-Classics-
 gutenberg_issued: '2011-05-18'
 gutenberg_type: Text
 identifiers:
